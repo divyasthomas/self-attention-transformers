@@ -2,7 +2,7 @@
  Text Sequence prediction using self-attention transformers
 
 # Project Overview
-This project focuses on implementing a Transformer-based language model designed to predict the next character in a sequence
+This project focuses on implementing a Transformer-based language model designed to predict the next character in a text sequence
 
 ## Objectives
 
